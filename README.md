@@ -66,6 +66,6 @@ This project is licensed under the GPL v3. See the LICENSE file for details.
 
 ## Contact
 
-For any questions or suggestions, please contact Bocaletto Luca at [your-https://bocaletto-luca.github.io](site:https://bocaletto-luca.github.io).
+For any questions or suggestions, please contact Bocaletto Luca and visit website here [site-https://bocaletto-luca.github.io](site:https://bocaletto-luca.github.io).
 
 
