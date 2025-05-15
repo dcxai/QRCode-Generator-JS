@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Generator - Bocaletto Luca</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Include QRCode.js library from CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+  <!-- Container for the QR Code Generator app -->
+  <div class="container">
+    <h1>QR Code Generator</h1>
+    <form id="qrForm">
+      <label for="qrText">Enter text or URL:</label>
+      <input type="text" id="qrText" placeholder="Enter text or URL..." required>
+      <button type="submit" id="generateButton">Generate QR Code</button>
+    </form>
+    <!-- QR Code will be rendered in this div -->
+    <div id="qrcode"></div>
+    <!-- Save button, initially hidden -->
+    <button id="saveButton" style="display: none;">Save QR Code</button>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
