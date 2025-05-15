@@ -2,6 +2,15 @@
 
 QRCode-Generator-JS is a responsive web application developed by Bocaletto Luca that allows users to generate QR codes from any text or URL in real time. The app features a sleek, professional user interface and provides an option to download the generated QR code as a PNG image.
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](LICENSE)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)]()
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square)]()
+[![Multi-Platform](https://img.shields.io/badge/Multi--Platform-Yes-blueviolet?style=flat-square)]()
+[![Web App](https://img.shields.io/badge/Web%20App-Yes-orange?style=flat-square)]()
+
 ## Features
 
 - **Real-time QR Code Generation:** Enter text or URLs to instantly generate a QR code.
